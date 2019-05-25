@@ -1,0 +1,4 @@
+Equipe:
+- Matheus Vinícius Teotonio do Nascimento Andrade (mvtna)
+- Alexandre de Queiroz Burle (aqb)
+- Luis Eduardo Martins Alves (lema)
