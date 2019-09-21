@@ -1,6 +1,6 @@
 # Infraestrutura-de-Software
 
-Projetos relacionados á disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife. Cada pasta está relacionada a um projeto específico.
+Projetos relacionados à disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife. Cada pasta está relacionada a um projeto específico.
 
 
 
