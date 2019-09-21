@@ -1,16 +1,17 @@
 # Infraestrutura-de-Software
 
-Projetos relacionados á disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife. Cada pasta está relacionada a um projeto específico:
-Bootloader:
-    Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em Assembly, utilizando um bootloader para sua inicialização. e um código makefile para a execução do projeto
+Projetos relacionados á disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife. Cada pasta está relacionada a um projeto específico.
+
+
+
+Bootloader: Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em Assembly, utilizando um bootloader para sua inicialização e um código makefile para a execução do projeto
   
     Execução do projeto:
     $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
     $ cd Bootloader
     $ makeall
   
-Lista-Assembly:
-    Códigos em Assembly x86 para a resolução de questões propostas pela monitoria
+Lista-Assembly: Códigos em Assembly x86 para a resolução de questões propostas pela monitoria
    
     Instalação NASM e QEMU:
     $ sudo apt-get install nasm
@@ -23,8 +24,7 @@ Lista-Assembly:
     $ nasm qi.asm -o qi.bin
     $ qemu-system-i386 qi.bin
     
-Threads:
-    Códigos em C para a resolução de questões propostas pela monitoria
+Threads: Códigos em C para a resolução de questões propostas pela monitoria
       
     Execução do projeto:
     $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
