@@ -1,11 +1,8 @@
 # Infraestrutura-de-Software
 
-Projetos relacionados á disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife.
-
-Cada pasta está relacionada a um projeto específico:
+Projetos relacionados á disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife. Cada pasta está relacionada a um projeto específico:
 Bootloader:
-    Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em Assembly, utilizando um bootloader para sua inicialização.
-    Código makefile para a execução do projeto
+    Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em Assembly, utilizando um bootloader para sua inicialização. e um código makefile para a execução do projeto
   
     Execução do projeto:
     $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
