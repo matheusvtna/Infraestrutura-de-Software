@@ -3,8 +3,7 @@
 Projetos relacionados á disciplina de Infraestrutura de Software / Sistemas Operacionais lecionada no Centro de Informática - CIn UFPE - Campus Recife.
 
 Cada pasta está relacionada a um projeto específico:
-a) Bootloader:
-    Equipe: Alexandre de Queiroz Burle, Luis Eduardo Martins Alves e Matheus Vinícius Teotonio do Nascimento Andrade
+Bootloader:
     Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em Assembly, utilizando um bootloader para sua inicialização.
     Código makefile para a execução do projeto
   
@@ -13,8 +12,7 @@ a) Bootloader:
     $ cd Bootloader
     $ makeall
   
-b) Lista-Assembly:
-    Equipe: Alexandre de Queiroz Burle, Luis Eduardo Martins Alves e Matheus Vinícius Teotonio do Nascimento Andrade
+Lista-Assembly:
     Códigos em Assembly x86 para a resolução de questões propostas pela monitoria
    
     Instalação NASM e QEMU:
@@ -28,8 +26,7 @@ b) Lista-Assembly:
     $ nasm qi.asm -o qi.bin
     $ qemu-system-i386 qi.bin
     
-c) Threads:
-    Equipe: Alexandre de Queiroz Burle, Luis Eduardo Martins Alves e Matheus Vinícius Teotonio do Nascimento Andrade
+Threads:
     Códigos em C para a resolução de questões propostas pela monitoria
       
     Execução do projeto:
@@ -38,3 +35,6 @@ c) Threads:
     $ cd qi             #substitua i pelo número da questão desejada
     $ gcc qi.c -pthread -o q
     $ ./q
+
+
+Equipe: Alexandre de Queiroz Burle, Luis Eduardo Martins Alves e Matheus Vinícius Teotonio do Nascimento Andrade
