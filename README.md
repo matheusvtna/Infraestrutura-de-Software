@@ -9,7 +9,7 @@ Bootloader: Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em As
     Execução do projeto:
     $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
     $ cd Bootloader
-    $ makeall
+    $ make all
   
 Lista-Assembly: Códigos em Assembly x86 para a resolução de questões propostas pela monitoria
    
