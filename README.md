@@ -7,7 +7,7 @@ Projetos relacionados à disciplina de Infraestrutura de Software / Sistemas Ope
 Bootloader: Códigos em Assembly x86 para o desenvolvimento do jogo GENIUS em Assembly, utilizando um bootloader para sua inicialização e um código makefile para a execução do projeto
   
     Execução do projeto:
-    $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
+    $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software.git
     $ cd Bootloader
     $ make all
   
@@ -18,7 +18,7 @@ Lista-Assembly: Códigos em Assembly x86 para a resolução de questões propost
     $ sudo apt-get install qemu
    
     Execução do projeto:
-    $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
+    $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software.git
     $ cd Lista-Assembly
     $ cd qi             #substitua i pelo número da questão desejada
     $ nasm qi.asm -o qi.bin
@@ -27,7 +27,7 @@ Lista-Assembly: Códigos em Assembly x86 para a resolução de questões propost
 Threads: Códigos em C para a resolução de questões propostas pela monitoria
       
     Execução do projeto:
-    $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software
+    $ git clone https://github.com/matheusvtna/Infraestrutura-de-Software.git
     $ cd Threads
     $ cd qi             #substitua i pelo número da questão desejada
     $ gcc qi.c -pthread -o q
